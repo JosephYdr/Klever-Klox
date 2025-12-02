@@ -52,7 +52,7 @@
 #define reconnectionAttempts 3
 
 // Replace with your network credentials
-String ssid     =           "Irish Js";
+String ssid     =                   "";
 String password =                   "";
 String ntpServer =   "pool.ntp.org";
 String tz = "GMT0IST,M3.5.0/1,M10.4.0"; // Timezone for Ireland (IST/GMT with DST)
